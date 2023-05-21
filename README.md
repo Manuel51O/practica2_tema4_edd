@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/XPev-MiW)
-# Práctica 2 de Github
+# Práctica 2 de Github Estamos en la rama MASTER.
 *### comandos de git: status, add, commit, push, pull, rm, log, branch, checkout, merge*
 
 El objetivo principal de esta práctica es aprender a trabajar con ramas, entender su funcionamiento, y aprender a manejarlos y administrarlas
